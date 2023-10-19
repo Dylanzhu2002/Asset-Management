@@ -1,0 +1,15 @@
+{
+    "list": [
+        {
+            "date": "22/10/10",
+            "type": "book",
+            "balance": 20
+        },
+        {
+            "date": "22/12/19",
+            "type": "apple",
+            "balance": 100
+        }
+    ],
+    "name": "My list"
+}

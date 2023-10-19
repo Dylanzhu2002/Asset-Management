@@ -1,0 +1,8 @@
+{
+    "name": "dylan's list",
+    "list": [{
+        "date": "02/20",
+        "balance": 100,
+        "type": "apple"
+    }]
+}

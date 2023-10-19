@@ -1,0 +1,20 @@
+{
+    "name": "My list",
+    "list": [
+        {
+            "date": "22/02/02",
+            "balance": 100,
+            "type": "apple"
+        },
+        {
+            "date": "22/05/10",
+            "balance": 20,
+            "type": "book"
+        },
+        {
+            "date": "22/12/10",
+            "balance": 1000,
+            "type": "phone"
+        }
+    ]
+}
